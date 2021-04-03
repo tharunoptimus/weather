@@ -1,3 +1,5 @@
+
+Simple PWA Weather APP using React.js.
 # Getting Started
 
 ## Create React App <br>
