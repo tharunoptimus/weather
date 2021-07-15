@@ -1,23 +1,15 @@
-
 Simple PWA Weather APP using React.js.
 # Getting Started
 
-## Create React App <br>
-`npx create-react-app ./` <br>
+## Install
+`npm install` to install the app in the directory
 
-## Install Axios <br>
-Axios is required to pass the get request to the Weather API <br>
-`npm install --save axios`
+## Get your API Key
+Get API Key from openweathermap.
+<a href="https://openweathermap.org/">Open Weather Maps</a>
 
-# Develop App
-## Get API Key from openweathermap <br>
-<a href="https://openweathermap.org/">Open Weather Maps</a> <br>
+## Run
+`npm start` to start the dev server
 
-## Copy Contents <br>
-Paste the src and the public folder and replace the API_KEY with your key in the `src/app/fetchWeather.js` <br>
-
-## Run Build <br>
-`npm run build` <br>
-
-## Host <br>
-Host the App to the hosting service by uploading the build folder.
+## Run Build 
+`npm run build` to build for hosting
